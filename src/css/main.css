@@ -15,6 +15,27 @@ h3 {
   font-weight: 400;
 }
 
+h3,
+h4 {
+  font-family: libre baskerville;
+}
+
+.section-sport h4 {
+  color: #78290f;
+}
+
+.section-culture h4 {
+  color: #15616d;
+}
+
+.section-regions .first {
+  font-weight: bold;
+}
+
+.first.highlighted {
+  background-color: #faf0ca;
+}
+
 ul {
   padding-left: 20px;
 }
